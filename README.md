@@ -18,8 +18,8 @@
 <br />
 
 <div align="center" width="100%">
-  <img align="center" height="200" src="https://github-readme-stats.vercel.app/api?username=phidung-hub&theme=onedark" alt="phidung-hub"/> 
-  <img align="center" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phidung-hub&hide=css&theme=nord" alt="" />
+  <img align="center" height="250" src="https://github-readme-stats.vercel.app/api?username=phidung-hub&theme=onedark" alt="phidung-hub"/> 
+  <img align="center" height="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phidung-hub&hide=css&theme=onedark" alt="" />
   </p>
 </div>
 

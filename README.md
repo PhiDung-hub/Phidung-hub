@@ -7,10 +7,12 @@
 <div>
   <p align="middle">
     <a href="https://www.linkedin.com/in/phi-dung-ho">
-      <img src="https://img.shields.io/badge/Linkedin-blue?style=flat&logo=linkedin&labelColor=blue">
+      <img height="30" src="https://img.shields.io/badge/Linkedin-blue?style=flat&logo=linkedin&labelColor=blue">
     </a>
+    &nbsp;
+    &nbsp;
     <a href="mailto:philho.dev@outlook.com?subject=Hi%Phil,%20From%20Github">
-      <img src="https://img.shields.io/badge/Email-white?style=flat&logo=microsoft-outlook&logoColor=blue">
+      <img height="30" src="https://img.shields.io/badge/Email-white?style=flat&logo=microsoft-outlook&logoColor=blue">
     </a>
   </p>
 </div>

@@ -6,7 +6,7 @@
 
 <div>
   <p align="middle">
-    <a href="https://www.linkedin.com/in/sagnikghoshcr7">
+    <a href="https://www.linkedin.com/in/phidung-hub" rel="noreferrer noopener" target="_blank">
       <img src="https://img.shields.io/badge/Linkedin-blue?style=flat&logo=linkedin&labelColor=blue">
     </a>
     <a href="mailto:philho.dev@outlook.com?subject=Hi%Phil,%20From%20Github">

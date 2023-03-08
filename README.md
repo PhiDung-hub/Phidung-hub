@@ -11,7 +11,7 @@
     </a>
     &nbsp;
     &nbsp;
-    <a href="mailto:philho.dev@outlook.com?subject=Hi%Phil,%20From%20Github">
+    <a href="mailto:philho.dev@outlook.com?subject=Hi%20Phil,%20From%20Github">
       <img height="30" src="https://img.shields.io/badge/Email-white?style=flat&logo=microsoft-outlook&logoColor=blue">
     </a>
   </p>

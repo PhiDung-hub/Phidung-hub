@@ -1,7 +1,7 @@
 <h1>Hii <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="40px" width="40px">, I'm Phil Ho.</h1>
 
 <div>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=500&color=F7A143&width=1200&lines=Vietnamese+developer+from+Singapore+with+a+strong+interest+in+blockchain+and+high+performance+techs" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=500&color=F7A143&width=1200&lines=Vietnamese+developer+from+Singapore+with+a+strong+interest+in+blockchain+and+high+performance+computing" alt="Typing SVG" />
 </div>
 
 <div>
